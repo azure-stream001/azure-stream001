@@ -73,9 +73,9 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-12100E?logo=vercel&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="#@blackray1" target="_blank"><img src="https://img.shields.io/badge/Discord-0A66C2?logo=discord&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.chatwork.com/momo-peach" target="_blank"><img src="https://img.shields.io/badge/Chatwork-12100E?logo=chatwork&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:maxdev1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
