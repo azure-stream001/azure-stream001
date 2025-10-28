@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm <strong>Max</strong></h1>
+<h1 align="center">👋 Hello there!</h1>
 
 <p align="center">
   🚀 A passionate <b>Full-Stack Developer</b> & <b>AI Integrator</b> building modern, scalable, and intelligent web applications.
