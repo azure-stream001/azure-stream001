@@ -43,17 +43,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azure-stream001&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azure-stream001&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🌟 Current Focus
 - 🧱 Building enterprise-grade SaaS platforms with **AI insight & automation**
-- 🤝 Integrating **third-party APIs** (LINE, Google, OpenAI, Payment, etc.)
+- 🤝 Integrating **third-party APIs** (Google, OpenAI, Payment, etc.)
 - ⚡ Delivering **Next.js + Node.js + AI-driven** full-stack systems
 
 ---
@@ -66,14 +58,9 @@
 
 ---
 
-### 🗣️ Motto
-> “Build with purpose. Code with clarity. Automate with intelligence.”
-
----
-
 ### 📫 Connect With Me
 <p align="left">
-  <a href="#@blackray1" target="_blank"><img src="https://img.shields.io/badge/Discord-0A66C2?logo=discord&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://discord.gg#blackray1" target="_blank"><img src="https://img.shields.io/badge/Discord-0A66C2?logo=discord&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.chatwork.com/momo-peach" target="_blank"><img src="https://img.shields.io/badge/Chatwork-12100E?logo=chatwork&logoColor=white&style=for-the-badge" /></a>
   <a href="mailto:maxdev1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
