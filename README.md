@@ -1,38 +1,39 @@
-<h1 align="center">👋 Hello there!</h1>
+<h1 align="center">👋 はじめまして！</h1>
 
 <p align="center">
-  🚀 A passionate <b>Full-Stack Developer</b> & <b>AI Integrator</b> building modern, scalable, and intelligent web applications.
+  🚀 モダンでスケーラブル、そしてAIを活用したWebアプリケーションの開発を得意とする  
+  <b>フルスタックエンジニア</b> / <b>AIインテグレーター</b> です。
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 自己紹介
 
-- 💡 Crafting full-stack systems with elegant architecture and AI-powered automation  
-- 🌍 Experienced across frontend, backend, and cloud ecosystems  
-- ⚙️ Focused on high-performance, maintainable, and future-ready solutions  
-- 💬 Always exploring new technologies — from Web3 to Generative AI  
+- 💡 AIを活用した自動化と洗練されたアーキテクチャによるフルスタック開発  
+- 🌍 フロントエンド・バックエンド・クラウドまで幅広い開発経験  
+- ⚙️ 高性能・高保守性・拡張性を重視したシステム設計  
+- 💬 Web3や生成AIなど、新しい技術への継続的なキャッチアップ  
 
 ---
 
-### 🧩 Tech Stack
+### 🧩 技術スタック
 
-#### 🖥️ Frontend
+#### 🖥️ フロントエンド
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,materialui,html,css,javascript" />
 </p>
 
-#### ⚙️ Backend & Frameworks
+#### ⚙️ バックエンド / フレームワーク
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,python,django,flask,fastapi,laravel,php,strapi" />
 </p>
 
-#### ☁️ Database & Cloud
+#### ☁️ データベース / クラウド
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,postgresql,azure,aws,vercel,linux" />
 </p>
 
-#### 🤖 AI & Integrations
+#### 🤖 AI / 外部サービス連携
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-1C1C1C?logo=chainlink&logoColor=white&style=for-the-badge" />
@@ -43,22 +44,23 @@
 
 ---
 
-### 🌟 Current Focus
-- 🧱 Building enterprise-grade SaaS platforms with **AI insight & automation**
-- 🤝 Integrating **third-party APIs** (Google, OpenAI, Payment, etc.)
-- ⚡ Delivering **Next.js + Node.js + AI-driven** full-stack systems
+### 🌟 現在注力していること
+
+- 🧱 AI分析・自動化を活用したエンタープライズ向けSaaS開発
+- 🤝 Google API / OpenAI / 決済APIなど外部サービス連携
+- ⚡ Next.js + Node.js + AIを活用したフルスタックシステム構築
 
 ---
 
-### 🧩 Strengths
-- 🔄 End-to-end system design: UI → API → AI → Deployment  
-- 🧠 AI + Web Integration with OpenAI / LangChain  
-- 🧭 Multi-framework adaptability: React / .NET / Django / Node  
-- 🧰 Clean, modular architecture with scalability in mind  
+### 🧩 強み
+
+- 🔄 UI → API → AI → インフラまで一貫したシステム設計
+- 🧭 React / .NET / Django / Node.js など複数技術への高い適応力
+- 🧰 保守性・拡張性を意識したクリーンアーキテクチャ設計
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contact
 <p align="left">
   <a href="https://discord.gg#blackray1" target="_blank"><img src="https://img.shields.io/badge/Discord-0A66C2?logo=discord&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.chatwork.com/momo-peach" target="_blank"><img src="https://img.shields.io/badge/Chatwork-12100E?logo=chatwork&logoColor=white&style=for-the-badge" /></a>
@@ -67,4 +69,5 @@
 
 ---
 
-⭐ **If you like my work, consider following me or giving a star — let’s build something amazing together!**
+⭐ 気に入っていただけましたら、フォローやスターをいただけると励みになります！  
+ぜひ一緒に素晴らしいサービスを作っていきましょう 🚀
