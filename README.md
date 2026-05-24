@@ -36,7 +36,6 @@
 #### 🤖 AI / 外部サービス連携
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C1C1C?logo=chainlink&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/LINE%20Messaging%20API-00C300?logo=line&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20APIs-4285F4?logo=google&logoColor=white&style=for-the-badge" />
@@ -62,9 +61,9 @@
 
 ### 📫 Contact
 <p align="left">
-  <a href="https://discord.gg#blackray1" target="_blank"><img src="https://img.shields.io/badge/Discord-0A66C2?logo=discord&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:azure.stream1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.chatwork.com/momo-peach" target="_blank"><img src="https://img.shields.io/badge/Chatwork-12100E?logo=chatwork&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:maxdev1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <!-- <a href="https://discord.gg#blackray1" target="_blank"><img src="https://img.shields.io/badge/Discord-0A66C2?logo=discord&logoColor=white&style=for-the-badge" /></a> -->
 </p>
 
 ---
